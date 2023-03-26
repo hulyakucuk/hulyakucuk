@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hülya!</h1>
-<h3 align="center">someone trying to be a front-end developer</h3>
+<h3 align="center">Someone who wants to become a front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hulyakucuk&label=Profile%20views&color=0e75b6&style=flat" alt="hulyakucuk" /> </p>
 
