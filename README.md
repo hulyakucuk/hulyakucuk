@@ -3,13 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **React.js**
-
 - 🌱 I’m currently learning **Javascript & React.js**
-
-- 👯 I’m looking to collaborate on **Javascript & React.js**
-
-- 🤝 I’m looking for help with **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hulyakucuk](https://github.com/hulyakucuk)
 
